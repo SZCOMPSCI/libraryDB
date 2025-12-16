@@ -1,0 +1,20 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# VS Code settings folder
+.vscode/
+
+# Mac OS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+
+# MySQL credentials (if you ever put them in a file)
+*.env
