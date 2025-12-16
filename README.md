@@ -34,11 +34,11 @@ A Java-based desktop application for managing a small library database. Users ca
 
 ## Skills Demonstrated
 
--Java GUI development using Swing
--Database design and SQL queries
--CRUD operations (Create, Read, Update, Delete)
--Connecting a Java application to a MySQL database
--Debugging and testing a desktop application
+- Java GUI development using Swing
+- Database design and SQL queries
+- CRUD operations (Create, Read, Update, Delete)
+- Connecting a Java application to a MySQL database
+- Debugging and testing a desktop application
 
 ## License
 
